@@ -30,8 +30,7 @@ body{
     list-style: none;
     top: 10px;
     height: 60px;
-    width: 30%;
-    
+    width: 35%;   
 }
 
 a{
@@ -71,7 +70,6 @@ input[type="submit"]{
     position: absolute;
     top: 35px;
     right: 27%;
-    
 }
 
 input[type="submit"]:hover{
