@@ -7,4 +7,4 @@ if(age >= 25){
     console.log(message);
 } else {
     console.log(ask);
-}
+};
