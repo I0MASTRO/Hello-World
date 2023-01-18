@@ -8,3 +8,5 @@ if(age >= 25){
 } else {
     console.log(ask);
 };
+
+alert('Я JavaScript!');
